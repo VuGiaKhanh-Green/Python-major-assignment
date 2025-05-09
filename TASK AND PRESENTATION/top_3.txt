@@ -1,0 +1,90 @@
+﻿Statistic: Standard SoT/90
+==========================
+Top 3 players:
+         Player  Standard SoT/90
+  Donyell Malen             2.76
+Luis Sinisterra             2.29
+    Jáder Durán             2.12
+
+Bottom 3 players:
+          Player  Standard SoT/90
+ Aaron Cresswell              0.0
+  Aaron Ramsdale              0.0
+Łukasz Fabiański              0.0
+--------------------------------------------------
+
+Statistic: Standard G/Sh
+========================
+Top 3 players:
+            Player  Standard G/Sh
+       John Stones            1.0
+Myles Lewis-Skelly            0.5
+      Jake O'Brien            0.4
+
+Bottom 3 players:
+         Player  Standard G/Sh
+     Willy Boly            0.0
+        Willian            0.0
+Aaron Cresswell            0.0
+--------------------------------------------------
+
+Statistic: Standard Dist
+========================
+Top 3 players:
+          Player  Standard Dist
+ Ibrahim Sangaré           32.0
+Emmanuel Agbadou           31.8
+     Ryan Fraser           31.6
+
+Bottom 3 players:
+        Player  Standard Dist
+Kieran Tierney            2.6
+  Harry Clarke            4.5
+   John Stones            5.1
+--------------------------------------------------
+
+Statistic: Tackles Tkl
+======================
+Top 3 players:
+            Player  Tackles Tkl
+Idrissa Gana Gueye          124
+      Daniel Muñoz          113
+        João Gomes          105
+
+Bottom 3 players:
+         Player  Tackles Tkl
+ Aaron Ramsdale            0
+ Altay Bayındır            0
+Bart Verbruggen            0
+--------------------------------------------------
+
+Statistic: Tackles TklW
+=======================
+Top 3 players:
+            Player  Tackles TklW
+      Daniel Muñoz            74
+Idrissa Gana Gueye            74
+    Moisés Caicedo            64
+
+Bottom 3 players:
+        Player  Tackles TklW
+Aaron Ramsdale             0
+ Ali Al Hamadi             0
+Altay Bayındır             0
+--------------------------------------------------
+
+Statistic: Blocks
+=================
+Top 3 players:
+         Player  Blocks
+ Nathan Collins      71
+        Murillo      67
+Tyrick Mitchell      62
+
+Bottom 3 players:
+        Player  Blocks
+Aaron Ramsdale       0
+ Ali Al Hamadi       0
+       Alisson       0
+--------------------------------------------------
+
